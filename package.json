@@ -27,7 +27,7 @@
     "xmlpoke": "^0.1.12"
   },
   "devDependencies": {
-    "gulp-nuget-restore": "^0.4.0"
+    "gulp-nuget-restore": "^0.5.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
