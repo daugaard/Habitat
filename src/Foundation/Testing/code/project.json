@@ -3,7 +3,7 @@
     "AutoFixture": "3.49.0",
     "AutoFixture.AutoNSubstitute": "3.49.0",
     "AutoFixture.Xunit2": "3.49.0",
-    "FluentAssertions": "4.7.0",
+    "FluentAssertions": "4.13.1",
     "Microsoft.AspNet.Mvc": "5.2.3",
     "Microsoft.AspNet.Razor": "3.2.3",
     "Microsoft.AspNet.WebApi": "5.2.3",
